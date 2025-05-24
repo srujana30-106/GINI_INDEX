@@ -1,0 +1,95 @@
+id,country,c3,year,q1,q2,q3,q4,q5,region_un,region_un_sub,gini_index
+174,Argentina,ARG,2010,4.67,9.54,15.02,22.84,47.93,Americas,South America,0.3993
+244,Armenia,ARM,2010,5.0,11.0,16.0,23.0,45.0,Asia,Western Asia,0.368
+471,Australia,AUS,2010,7.23,11.82,16.12,22.75,42.08,Oceania,Australia and New Zealand,0.3225
+549,Austria,AUT,2010,8.07,13.17,17.41,22.83,38.52,Europe,Western Europe,0.2822
+692,Bangladesh,BGD,2010,5.220000000000001,9.1,13.33,20.56,51.79,Asia,Southern Asia,0.4184
+725,Barbados,BRB,2010,4.3,8.700000000000001,12.6,19.4,54.9,Americas,Caribbean,0.4486
+783,Belarus,BLR,2010,8.81,13.43,17.5,22.78,37.47,Europe,Eastern Europe,0.2668
+863,Belgium,BEL,2010,9.1,14.1,18.2,23.1,35.5,Europe,Western Europe,0.2472
+1045,Botswana,BWA,2010,2.84,5.69,9.53,16.89,65.04,Africa,Southern Africa,0.5425
+1375,Bulgaria,BGR,2010,6.9,12.6,17.3,23.0,40.3,Europe,Eastern Europe,0.3078
+1411,Cambodia,KHM,2010,2.8000000000000003,7.0,11.4,18.3,60.5,Asia,South-eastern Asia,0.5068
+1741,Canada,CAN,2010,7.11,12.4,16.79,22.75,40.95,Americas,Northern America,0.3121
+2227,China,CHN,2010,6.98,12.89,17.63,23.26,39.24,Asia,Eastern Asia,0.2996
+2427,Colombia,COL,2010,3.21,7.29,11.74,19.32,58.44,Americas,South America,0.49
+2624,Costa Rica,CRI,2010,4.5,8.5,12.9,20.3,53.8,Americas,Central America,0.4416
+2723,Croatia,HRV,2010,7.0,13.0,17.8,23.5,38.8,Europe,Southern Europe,0.2954
+2761,Cyprus,CYP,2010,8.6,13.3,17.1,22.2,38.8,Asia,Western Asia,0.2772
+2883,Czechia,CZE,2010,9.29,14.53,17.78,22.07,36.33,Europe,Eastern Europe,0.2465
+3101,Denmark,DNK,2010,9.58,14.39,17.81,22.23,35.99,Europe,Northern Europe,0.2426
+3210,Dominican Republic,DOM,2010,4.7,8.6,13.2,20.9,52.6,Americas,Caribbean,0.4324
+3313,Ecuador,ECU,2010,4.2,8.4,13.0,20.5,53.9,Americas,South America,0.446
+3476,El Salvador,SLV,2010,5.1000000000000005,9.7,14.4,21.5,49.4,Americas,Central America,0.4006
+3596,Estonia,EST,2010,7.17,13.23,17.05,22.8,39.75,Europe,Northern Europe,0.2989
+3634,Eswatini,SWZ,2010,4.0,7.54,11.83,19.89,56.73,Africa,Southern Africa,0.4713
+3884,Finland,FIN,2010,9.18,13.78,17.41,22.57,37.05,Europe,Northern Europe,0.2582
+4029,France,FRA,2010,7.47,12.92,17.09,22.53,39.99,Europe,Western Europe,0.2986
+4132,Georgia,GEO,2010,4.26,8.96,14.48,22.02,50.28,Asia,Western Asia,0.4204
+4408,Germany,DEU,2010,8.34,13.11,17.11,22.59,38.85,Europe,Western Europe,0.282
+4548,Greece,GRC,2010,6.74,12.52,17.28,22.98,40.48,Europe,Southern Europe,0.3118
+4598,Greenland,GRL,2010,7.49,12.5,16.27,22.81,40.94,Americas,Northern America,0.3087
+4684,Guinea-Bissau,GNB,2010,4.49,8.3,12.22,18.29,56.7,Africa,Western Africa,0.4576
+4807,Honduras,HND,2010,3.2,7.1000000000000005,12.1,20.7,57.1,Americas,Central America,0.4836
+4991,Hungary,HUN,2010,10.0,14.8,18.4,22.7,34.2,Europe,Eastern Europe,0.2242
+5058,Iceland,ISL,2010,9.6,14.38,17.84,22.03,36.16,Europe,Northern Europe,0.243
+5282,India,IND,2010,8.120000000000001,11.99,15.88,21.54,42.46,Asia,Southern Asia,0.313
+5412,Indonesia,IDN,2010,7.57,11.12,15.28,21.78,44.24,Asia,South-eastern Asia,0.3361
+5559,Ireland,IRL,2010,7.75,12.83,16.89,22.68,39.85,Europe,Northern Europe,0.2962
+5670,Israel,ISR,2010,4.66,9.64,15.5,22.91,47.29,Asia,Western Asia,0.3941
+5843,Italy,ITA,2010,6.36,12.16,17.25,23.38,40.86,Europe,Southern Europe,0.3208
+5952,Jamaica,JAM,2010,6.6000000000000005,10.8,14.9,21.4,46.3,Americas,Caribbean,0.36
+6113,Kazakhstan,KAZ,2010,9.54,13.47,17.07,22.26,37.67,Asia,Central Asia,0.2601
+6247,"Korea, Republic of",KOR,2010,7.04,12.87,17.31,23.17,39.61,Asia,Eastern Asia,0.3018
+6278,Kosovo,XKX,2010,7.77,12.14,16.2,22.37,41.5,Europe,Southern Europe,0.311
+6346,Kyrgyzstan,KGZ,2010,8.66,13.26,16.91,22.0,39.17,Asia,Central Asia,0.279
+6434,Latvia,LVA,2010,6.2,11.7,16.6,23.1,42.4,Europe,Northern Europe,0.3352
+6484,Lesotho,LSO,2010,2.84,6.79,11.88,20.28,58.21,Africa,Southern Africa,0.4969
+6564,Lithuania,LTU,2010,7.04,12.75,17.5,22.94,39.77,Europe,Northern Europe,0.3026
+6670,Luxembourg,LUX,2010,8.09,12.82,17.23,22.84,39.03,Europe,Western Europe,0.2875
+6723,Madagascar,MDG,2010,6.13,10.16,14.05,20.12,49.55,Africa,Eastern Africa,0.3871
+6796,Maldives,MDV,2010,7.0,11.0,16.0,22.0,43.0,Asia,Southern Asia,0.342
+6805,Mali,MLI,2010,7.97,12.08,16.15,22.5,41.3,Africa,Western Africa,0.3083
+6816,Malta,MLT,2010,8.6,13.6,17.7,22.9,37.2,Europe,Southern Europe,0.266
+7042,Mexico,MEX,2010,3.7,8.35,13.02,20.41,54.53,Americas,Central America,0.4548
+7128,Moldova,MDA,2010,8.120000000000001,12.51,16.62,22.42,40.33,Europe,Eastern Europe,0.2973
+7144,Mongolia,MNG,2010,7.78,12.15,16.47,22.52,41.07,Asia,Eastern Asia,0.3079
+7154,Montenegro,MNE,2010,8.65,13.14,17.7,23.26,37.24,Europe,Southern Europe,0.2693
+7208,Myanmar,MMR,2010,11.98,15.59,18.42,22.04,31.97,Asia,South-eastern Asia,0.1857
+7215,Namibia,NAM,2010,5.7,8.4,11.2,18.1,56.5,Africa,Southern Africa,0.4462
+7343,Netherlands,NLD,2010,8.75,13.74,17.6,22.59,37.32,Europe,Western Europe,0.264
+7548,Nigeria,NGA,2010,4.41,8.27,12.98,20.33,54.01,Africa,Western Africa,0.445
+7599,North Macedonia,MKD,2010,3.73,10.86,16.94,24.44,44.02,Europe,Southern Europe,0.3767
+7733,Norway,NOR,2010,9.29,14.46,17.91,22.48,35.86,Europe,Northern Europe,0.2446
+8022,Panama,PAN,2010,3.05,7.72,12.86,20.82,55.55,Americas,Central America,0.4724
+8062,Papua New Guinea,PNG,2010,5.07,9.99,15.16,22.44,47.34,Oceania,Melanesia,0.388
+8134,Paraguay,PRY,2010,3.17,7.41,12.3,19.54,57.58,Americas,South America,0.4838
+8285,Peru,PER,2010,2.79,8.18,14.02,22.29,52.73,Americas,South America,0.4559
+8532,Poland,POL,2010,7.0,12.13,16.59,22.47,41.8,Europe,Eastern Europe,0.3199
+8633,Portugal,PRT,2010,7.5,12.2,16.6,22.2,41.5,Europe,Southern Europe,0.312
+8783,Romania,ROU,2010,6.6000000000000005,12.4,17.3,23.5,40.2,Europe,Eastern Europe,0.3132
+8873,Russia,RUS,2010,6.78,12.33,16.89,22.83,41.17,Europe,Eastern Europe,0.3171
+8939,Sao Tome and Principe,STP,2010,8.38,12.74,16.830000000000002,22.56,39.49,Africa,Middle Africa,0.2882
+8980,Serbia,SRB,2010,5.97,12.31,17.43,24.0,40.29,Europe,Southern Europe,0.3213
+9097,Singapore,SGP,2010,5.08,10.97,16.55,23.4,43.99,Asia,South-eastern Asia,0.3611
+9187,Slovakia,SVK,2010,8.5,14.44,18.23,22.7,36.12,Europe,Eastern Europe,0.2541
+9329,Slovenia,SVN,2010,9.09,14.73,18.37,22.86,34.95,Europe,Southern Europe,0.2394
+9406,South Africa,ZAF,2010,1.25,3.27,6.01,12.75,76.71,Africa,Southern Africa,0.6417
+9555,Spain,ESP,2010,5.96,12.19,17.21,23.75,40.89,Europe,Southern Europe,0.3257
+9654,Sri Lanka,LKA,2010,4.2,8.8,13.1,19.5,54.4,Asia,Southern Asia,0.4444
+9854,Sweden,SWE,2010,8.9,14.7,18.8,23.2,34.4,Europe,Northern Europe,0.238
+9936,Switzerland,CHE,2010,7.69,12.38,16.67,22.54,40.71,Europe,Western Europe,0.3049
+10132,Taiwan,TWN,2010,7.63,12.3,16.49,22.39,41.19,Asia,Eastern Asia,0.3088
+10307,Thailand,THA,2010,6.61,10.45,14.78,21.66,46.5,Asia,South-eastern Asia,0.364
+10439,Turkey,TUR,2010,4.9,9.9,14.7,21.5,49.0,Asia,Western Asia,0.3992
+10505,Tuvalu,TUV,2010,6.59,10.8,14.95,21.28,46.38,Oceania,Polynesia,0.3602
+10534,Uganda,UGA,2010,5.92,9.78,13.51,19.56,51.23,Africa,Eastern Africa,0.4016
+10591,Ukraine,UKR,2010,10.21,14.31,17.92,22.39,35.160000000000004,Europe,Eastern Europe,0.232
+10825,United Kingdom,GBR,2010,7.02,11.89,16.24,22.11,42.75,Europe,Northern Europe,0.3266
+11185,United States,USA,2010,5.33,10.55,15.7,22.88,45.55,Americas,Northern America,0.371
+11360,Uruguay,URY,2010,5.44,9.45,13.99,21.35,49.77,Americas,South America,0.4022
+11424,Vanuatu,VUT,2010,6.74,11.14,15.53,21.77,44.81,Oceania,Melanesia,0.3472
+11561,Venezuela,VEN,2010,6.3,11.5,16.4,23.1,42.7,Americas,South America,0.3376
+11644,Vietnam,VNM,2010,5.32,9.65,14.42,21.49,49.17,Asia,South-eastern Asia,0.3977
+11728,West Bank and Gaza,PSE,2010,7.47,11.7,15.73,21.88,43.22,Asia,Western Asia,0.3267
+11814,Zambia,ZMB,2010,3.81,6.76,10.49,17.89,61.05,Africa,Eastern Africa,0.5024
